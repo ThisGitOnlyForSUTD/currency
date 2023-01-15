@@ -1,6 +1,11 @@
-##CURRENCY ON VUE + VUETIFY + AXIOS
+## CURRENCY ON VUE + VUETIFY + AXIOS
+![npm](https://img.shields.io/npm/v/14?color=green)
+![Vue](https://img.shields.io/badge/vue-2.6.11-green)
+![vuetify](https://img.shields.io/badge/vuetify-2.4.2-green)
+```
 
 Live demo sorry, I haven't added a demo yet :globe_with_meridians:
+```
 
 ## Advantages
 
