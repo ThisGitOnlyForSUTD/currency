@@ -1,4 +1,4 @@
-#CURRENCY ON VUE + VUETIFY + AXIOS
+##CURRENCY ON VUE + VUETIFY + AXIOS
 
 Live demo sorry, I haven't added a demo yet :globe_with_meridians:
 
